@@ -1,4 +1,5 @@
-# A função "format" também formata uma string com base nos parâmetros que vocês utiliza. Obs: Caso as chaves estejam vazias ele pedagá pela ordem dos parâmetros
+# A função "format" também formata uma string com base nos parâmetros que vocês utiliza. Obs: Caso as chaves estejam
+# vazias ele pedagá pela ordem dos parâmetros
 a = 'A'
 b = True
 c = 1.1

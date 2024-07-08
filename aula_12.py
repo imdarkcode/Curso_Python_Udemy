@@ -1,3 +1,4 @@
+# Exercício: Criar um calculo de IMC com base nos dados pessoais
 nome = 'Otávio Sudano'
 altura = 1.77
 peso = 50
