@@ -1,4 +1,4 @@
-# Curso de Python - Luiz Otávio Miranda
+# Udemy | Curso de Python
 
 **Descrição:**
 
